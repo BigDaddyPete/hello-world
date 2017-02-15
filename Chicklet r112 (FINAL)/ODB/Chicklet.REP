@@ -1,0 +1,104 @@
+*************************************************************
+FileName = Chicklet.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\matrix\matrix
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\profile
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\topoverlay\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\topoverlay\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\toppaste\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\toppaste\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\topsolder\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\topsolder\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\top\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\top\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mid1\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mid2\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mid2\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottom\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottomsolder\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottomsolder\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottomoverlay\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\bottomoverlay\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\keepout\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\keepout\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical1\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical1\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical13\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical13\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical15\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical15\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical32\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\mechanical32\attrlist
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect9.8425x26.5748_90_offset0x-3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect9.8425x26.5748_180_offset0x-3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect9.8425x26.5748_90_offset0x3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect9.8425x26.5748_180_offset0x3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect15.7481x32.4804_90_offset0x-3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect15.7481x32.4804_180_offset0x-3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect15.7481x32.4804_90_offset0x3.937\features
+
+Generated File : C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Project Outputs for Chicklet\ODB\odb\symbols\rect15.7481x32.4804_180_offset0x3.937\features
+

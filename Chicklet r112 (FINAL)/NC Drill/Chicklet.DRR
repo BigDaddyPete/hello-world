@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Chicklet.PcbDoc   4/18/2016  3:46:09 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Chicklet.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          20               3.10 Inch (78.66 mm)
+T2        8.1mil (0.20574mm)       Round          68               8.13 Inch (206.43 mm)
+T3        8.2mil (0.20828mm)       Round          13               0.81 Inch (20.53 mm)
+T4        10mil (0.254mm)          Round          35               4.41 Inch (111.91 mm)
+T5        12.99mil (0.32995mm)     Round          9                0.38 Inch (9.60 mm)
+T6        40mil (1.016mm)          Round          3                1.16 Inch (29.49 mm)
+T7        120mil (3.048mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            149              17.98 Inch (456.62 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

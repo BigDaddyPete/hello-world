@@ -1,0 +1,42 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J100       MM8030-2610            580mil        799mil        580mil        799mil        580mil     759.63mil  T        360.00 NC             
+J300       5X2_100_EDGE           600mil         70mil        800mil         70mil        800mil         70mil  T        360.00 5X2_100MIL_EDGE
+D301       CLVA-FKB            89.528mil    894.134mil         60mil        840mil         60mil        840mil  T         90.00 RGB            
+U300       BNO055                 890mil        540mil        890mil        540mil    828.484mil    451.416mil  T         90.00 BNO055         
+R307       RESC1005N              930mil        360mil        930mil        360mil        930mil    383.622mil  T        270.00 10 k           
+R306       RESC1005N              730mil        630mil        730mil        630mil        730mil    606.378mil  T         90.00 10 k           
+R305       RESC1005N               49mil        485mil         49mil        485mil         49mil    461.378mil  T         90.00 0              
+R304       RESC1005N              730mil        530mil        730mil        530mil        730mil    553.622mil  T        270.00 10 k           
+C209       CAPC1005N               92mil        733mil         92mil        733mil     68.378mil        733mil  T        360.00 22 pF          
+C305       CAPC1005N             1000mil        470mil       1000mil        470mil       1000mil    446.378mil  T         90.00 100 nF         
+C304       CAPC1005N              750mil        450mil        750mil        450mil    726.378mil        450mil  T        360.00 22 pF          
+C303       CAPC1608N              760mil        400mil        760mil        400mil    728.504mil        400mil  T        360.00 4.7 uF         
+BT300      CR2032_HOLDER          580mil        600mil         50mil        600mil         50mil        600mil  T        360.00 1 Cell         
+H300       SCREW_4-40            1050mil        150mil       1050mil        150mil       1050mil        150mil  T          0.00 4-40           
+ANT1       2540AT42B100      1032.362mil        920mil        930mil        920mil        930mil        920mil  T        360.00 2450 MHz       
+C200       CAPC1005N              330mil        380mil        330mil        380mil    353.622mil        380mil  T        180.00 12 pF          
+C201       CAPC1005N              229mil        333mil        229mil        333mil    205.378mil        333mil  T        360.00 12 pF          
+C202       CAPC1608N              505mil        235mil        505mil        235mil    536.496mil        235mil  T        180.00 4.7 uF         
+C203       CAPC1005N              515mil        295mil        515mil        295mil    538.622mil        295mil  T        180.00 22 pF          
+C204       CAPC1005N              515mil        370mil        515mil        370mil    538.622mil        370mil  T        180.00 22 pF          
+C205       CAPC1005N              505mil        425mil        505mil        425mil    528.622mil        425mil  T        180.00 100 nF         
+C206       CAPC1608N               81mil        679mil         81mil        679mil     49.504mil        679mil  T        360.00 4.7 uF         
+C207       CAPC1005N              121mil        595mil        121mil        595mil        121mil    571.378mil  T         90.00 100 nF         
+C208       CAPC1005N              286mil        803mil        286mil        803mil    262.378mil        803mil  T        360.00 100 nF         
+FD200      FIDUCIAL               140mil         60mil        140mil         60mil        140mil         60mil  T         90.00 NO_BOM         
+FD201      FIDUCIAL               405mil        920mil        405mil        920mil        405mil        920mil  T         90.00 NO_BOM         
+L200       INDC1608AN             430mil        330mil        430mil        330mil        430mil    359.527mil  T        270.00 Inductor_Iron  
+L201       INDC1608AN            1112mil        430mil       1112mil        430mil       1112mil    400.473mil  T         90.00 Inductor_Iron  
+R200       RESC1005N              330mil        333mil        330mil        333mil    306.378mil        333mil  T        360.00 0              
+R201       RESC1005N              710mil        340mil        710mil        340mil    686.378mil        340mil  T        360.00 10 k           
+R301       RESC1005N              180mil        920mil        180mil        920mil        180mil    896.378mil  T         90.00 *              
+R300       RESC1005N              300mil        920mil        300mil        920mil        300mil    896.378mil  T         90.00 *              
+U200       QFN50P500X500-32W4L        323mil        638mil        323mil        638mil    254.102mil    540.559mil  T         90.00 ATSAMR21E18A-MU
+Z1         CAPC1005N              845mil        895mil        845mil        895mil        845mil    871.378mil  T         90.00 TBD            
+Z2         CAPC1005N              775mil        920mil        775mil        920mil    751.378mil        920mil  T          0.00 TBD            
+Z3         CAPC1005N              700mil        895mil        700mil        895mil        700mil    871.378mil  T         90.00 TBD            
+T100       MURATA_LFL212      554.409mil    638.598mil        580mil        676mil        580mil        676mil  T        270.00 50 Ohm         
+X200       XO_4SMD            249.724mil    238.583mil        295mil        275mil        295mil        275mil  T        180.00 16.000 MHz     
+R302       RESC1005N              240mil        920mil        240mil        920mil        240mil    896.378mil  T         90.00 *              
+

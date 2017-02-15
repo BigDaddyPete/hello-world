@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\application_notes\at15332-chicklet-samr21\trunk\hardware\altium_db\Chicklet.PcbDoc
+RuleKind=Clearance|RuleName=EC_VIA_TO_PAD|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=EC_TL_TO_POUR|Scope=Board|Minimum=32.00
+RuleKind=Width|RuleName=RW_PWR_BUS|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=RW_ALL|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=EC_ALL|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=RW_UBAL_TRX_LINE|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=RW_BAL_TRX_LINE|Scope=Board|Minimum=8.00
